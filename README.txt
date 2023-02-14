@@ -4,4 +4,4 @@ This project incorporates HTML/CSS, Javascript, Node.js, Express.js, and EJS.
 - These blog entries can be found directly when typing in their title name (lodash format implemented when displaying url)
 - Pre styled CSS template was used
 
-This project was made alongside The Complete 2023 Web Development Bootcamp created by Dr. Angela Yu.
+This project was made alongside The Complete 2023 Web Development Bootcamp created by Dr. Angela Yu on Udemy.
